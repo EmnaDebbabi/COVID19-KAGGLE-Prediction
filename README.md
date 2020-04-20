@@ -30,7 +30,7 @@ This is older file and is not being updated now. Please use the covid_19_data.cs
 Added two new files with individual level information
 
 COVID_open_line_list_data.csv
-This file is obtained from this <a href="[url](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)">link</a>
+This file is obtained from this <a href="https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0">link</a>
 
 COVID19_line_list_data.csv
 This files is obtained from this <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQU0SIALScXx8VXDX7yKNKWWPKE1YjFlWc6VTEVSN45CklWWf-uWmprQIyLtoPDA18tX9cFDr-aQ9S6/pubhtml"> link </a>
