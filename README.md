@@ -13,8 +13,8 @@ The data is available from 22 Jan, 2020.
 Main file in this dataset is covid_19_data.csv and the detailed descriptions are below.
 
 covid_19_data.csv
-
-Sno - Serial number
+<ul type="circle">
+<li> Sno - Serial number </li>
 ObservationDate - Date of the observation in MM/DD/YYYY
 Province/State - Province or state of the observation (Could be empty when missing)
 Country/Region - Country of observation
@@ -23,7 +23,7 @@ Confirmed - Cumulative number of confirmed cases till that date
 Deaths - Cumulative number of of deaths till that date
 Recovered - Cumulative number of recovered cases till that date
 2019_ncov_data.csv
-
+</ul>
 This is older file and is not being updated now. Please use the covid_19_data.csv file
 
 Added two new files with individual level information
